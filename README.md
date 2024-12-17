@@ -41,5 +41,5 @@ Web Scraping Chinese books, total 363 books.
 Took ca. 10 mins.
 
 ## Future task
-Currently, Selenium package is still not familiar, to learn how to use selenium to do web scraping.
+Selenium package is still not familiar currently, it would be better to learn how to use selenium to do web scraping.
 
